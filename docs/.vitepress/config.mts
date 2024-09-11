@@ -5,7 +5,7 @@ import { getSideBarList } from './utils'
 export default defineConfig({
   base: '/vite-press-blog/',
   title: "浅夏",
-  description: "This is my VitePress demo project",
+  description: "Blog",
   appearance: false,
   cleanUrls: false,// todo 隐藏URL后缀，如果用CICD 会部署报404
   head: [
