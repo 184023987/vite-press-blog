@@ -10,9 +10,6 @@ export default defineConfig({
   cleanUrls: true,
   head: [
     ['link', { rel: 'icon', href: '/vite-press-blog/extension.ico'}],
-    ['link', { rel: 'preconnect', href: 'https://fonts.googleapis.com' }],
-    ['link', { rel: 'stylesheet', href: 'https://lksrctest03.lkcoffee.com/static/layui/css/layui.css' }],
-    ['script', { src: 'https://lguardbetest03.lkcoffee.com/static/lguard-sdk-20240419.js'}],
     ['script', {}, `
       console.log('window', window);
       console.log('document', document);
