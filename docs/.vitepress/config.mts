@@ -7,7 +7,7 @@ export default defineConfig({
   title: "浅夏",
   description: "This is my VitePress demo project",
   appearance: false,
-  cleanUrls: true,
+  cleanUrls: false,// todo 隐藏URL后缀，如果用CICD 会部署报404
   head: [
     ['link', { rel: 'icon', href: '/vite-press-blog/extension.ico'}],
     ['script', {}, `
