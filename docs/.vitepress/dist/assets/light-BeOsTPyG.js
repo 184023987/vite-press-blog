@@ -1,0 +1,1 @@
+import{g as o,c as a,h as e,F as n,o as t,_ as c}from"./index-CEEn8P2q.js";const r=o({__name:"light",setup(i){return(l,s)=>(t(),a(n,null,[s[0]||(s[0]=e("span",{style:{background:"#000"}},"CSS 边框流光",-1)),s[1]||(s[1]=e("div",{class:"contain"},[e("div",{class:"conic"}),e("div",{class:"conic conic-demo"})],-1))],64))}}),p=c(r,[["__scopeId","data-v-a7105de1"]]);export{p as default};
