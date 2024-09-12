@@ -5,7 +5,7 @@ layout: home
 hero:
   name: "生如夏花"
   text: "生如夏花之绚烂，死如秋叶之静美"
-  tagline: "My great project tagline"
+  tagline: "浅夏"
   image:
     src: /ext.svg
     alt: Chrome 浏览器插件
